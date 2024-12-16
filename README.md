@@ -10,7 +10,7 @@ Import the numpy module to use the build in function for calculation
 ### Step 2: 
 Prepare the list from each linear equation assign in np.array()
 ### Step 3: 
-Using the np.linalg.matrix_rank(), we can find the rank of the given matrix. 
+Using the np.linalg.solve(), we can find the solutions 
 ### Step 4: 
 End the program
 
